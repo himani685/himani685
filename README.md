@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Himani Singh</h1>
-<h4 align="center">I'm a passionate Web developer skilled in React stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
+<h4 align="center">I'm a😊 passionate Web Developer skilled in the  java script and React  stack, always eager to learn and experiment.😊 I focus on writing clean, elegant, and efficient code.  ✨.</h4>
 - 👀 I’m interested in coding 
 -🌱 I’m currently learning web development
 <br>
