@@ -11,7 +11,7 @@
 <br>
 🌐Socials
 <br>
-[![Linkedin](https://www.linkedin.com/in/himani-singh-99b6581b2/)
+<a href="https://linkedin.com/in/www.linkedin.com/in/himani-singh-99b6581b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/himani-singh-99b6581b2" height="30" width="40" /></a>
 <br>
 [![Github(https://github.com/himani685)
 <br>
