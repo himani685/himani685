@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/himani-singh-99b6581b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/himani-singh-99b6581b2" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/himani-singh-99b6581b2"></a>
+<a href="https://www.linkedin.com/in/himani-singh-99b6581b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himani-singh-99b6581b2/" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/himani-singh-99b6581b2/"></a>
   <a href="https://github.com/himani685"><img src="https://th.bing.com/th?id=OIP.PJoXmwv3lYJ2f7Pr1vtfkQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"<style height="30" width="40"></a>
 </p>
 
