@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Himani Singh</h1>
 <h3 align="center">A passionate frontend developer from India I'm a😊 passionate Web Developer skilled in the java script and React stack, always eager to learn and experiment.😊 I focus on writing clean, elegant, and efficient code. ✨.</h4> - 👀 I’m interested in coding -🌱 I’m currently learning web development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himani685" alt="himani685" /></a> </p>
+<p align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himani685" alt="himani685" /></a> </p>
 
 - 📫 How to reach me **singhhimani685@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Cq9DpdbQ0qsmwTJuN7mKrIW4nf85e5Z/view?usp=sharing](https://drive.google.com/file/d/11Cq9DpdbQ0qsmwTJuN7mKrIW4nf85e5Z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display:flex;">
 <a href="https://www.linkedin.com/in/himani-singh-99b6581b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himani-singh-99b6581b2/" height="30" width="40"/></a>
   <a href="https://www.linkedin.com/in/himani-singh-99b6581b2/"></a>
   <a href="https://github.com/himani685"><img src="https://th.bing.com/th?id=OIP.PJoXmwv3lYJ2f7Pr1vtfkQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"<style height="30" width="40"></a>
