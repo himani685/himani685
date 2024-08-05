@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himani Singh</h1>
 <h3 align="center">A passionate frontend developer from India I'm a😊 passionate Web Developer skilled in the java script and React stack, always eager to learn and experiment.😊 I focus on writing clean, elegant, and efficient code. ✨.</h4> - 👀 I’m interested in coding -🌱 I’m currently learning web development</h3>
 
-<p align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himani685" alt="himani685" /></a> </p>
+<p align="left" style="display:flex;">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himani685" alt="himani685" /></a> </p>
 
 - 📫 How to reach me **singhhimani685@gmail.com**
 
